@@ -6,7 +6,7 @@
 <p align="justify">Além dos arquivos executáveis, também há três arquivos .pas, também com os respectivos nomes dos seus desafios. Nesses arquivos encontram-se os 
 códigos fontes dos programas, que podem ser visualizados direto do navegador, apenas clicando em cima do arquivo. Porém, para editá-lo, é necessário fazer o download 
 do mesmo.</p>
-<p align="justify"><b>Importante!</b> O programa do desafio_3.exe pode demorar um pouco para processar os dados, dependendo do tamanho do número informado pelo usuário. Números com mais de três algarismos vão apresentar uma demora considerável no processamento.</p>
+<p align="justify"><b>Importante!</b> O programa do desafio_3.exe pode demorar um pouco para processar os dados, dependendo do tamanho do número informado pelo usuário. Números com mais de três algarismos vão apresentar uma demora considerável no processamento. Isso ocorre, possivelmente, por causa que o algoritmo não está construído da maneira mais eficiênte possível.</p>
 
 
 <h2>Linguagem Utilizada</h2>
