@@ -11,6 +11,6 @@ do mesmo.</p>
 
 <h2>Linguagem Utilizada</h2>
 <p align="justify">A linguagem utilizada para a construção dos códigos foi o Pascal.</p> 
-<p>Pascal é uma linguagem de programação sequencial, criada em 1970 e leva esse nome em homenagem ao físico e matemático Blaise Pascal. Para saber mais sobre a hitória desta linguagem, clique <a href="https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o)"> aqui <a>.  </p>
+<p>Pascal é uma linguagem de programação sequencial, criada em 1970 e leva esse nome em homenagem ao físico e matemático Blaise Pascal. Para saber mais sobre a história desta linguagem, clique <a href="https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o)"> aqui <a>.  </p>
 <p align="justify">O compilador de código utilizado na construção dos algoritmos foi o Pascalzim. Esse compilador foi desenvolvido pelo Departamento de Ciências da Computação da Universidade de Brasília e tem como objetivo auxiliar a aprendizagem da linguagem Pascal pelos alunos. Para saber mais sobre o Pascalzime também fazer o seu download, clique <a href="http://pascalzimbr.blogspot.com/"> aqui</a>.   </p> 
  
